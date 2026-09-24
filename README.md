@@ -6,7 +6,7 @@ This software prints out the words "Hello World" to the given terminal.
 
 The purpose of this software is to determine that the base functioning of the programming executive applications are working correctly.
 
-[Software Demo Video](https://youtube.com/shorts/N6ji_zqc620?feature=share)
+[Software Demo Video](https://youtu.be/8QZlsrPSVCE)
 
 # Development Environment
 
